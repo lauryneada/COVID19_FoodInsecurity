@@ -8,7 +8,7 @@ Our research is centered on determining the effects that COVID-19 had on food de
 [Click here]() to see our interactive Tableau dashboard
 
 # Datafolio
-[Click here]() to see our datafolio
+[Click here](https://docs.google.com/presentation/d/1CH_F4Bk1P9D47m_roCbRI-0_D5q_uMQp7PqA1_IvmD4/edit?usp=sharing) to see our datafolio
 
 # Report
 [Click here](https://docs.google.com/presentation/d/1CH_F4Bk1P9D47m_roCbRI-0_D5q_uMQp7PqA1_IvmD4/edit?usp=sharing) to see our full report 
