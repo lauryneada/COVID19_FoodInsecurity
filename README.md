@@ -14,5 +14,5 @@ Our research is centered on determining the effects that COVID-19 had on food de
 [Click here](https://drive.google.com/file/d/16TImE_u8AGz7bwuJx7_Q3fglTHHiis5w/view?usp=sharing) to see our full report 
 
 # Presentation
-[Click here](https://docs.google.com/presentation/d/1rv42WyflGCZoEuyPVPCXPnaeLoyCEqeN/edit?usp=sharing&ouid=104101849097978209458&rtpof=true&sd=true) to see our presentation deck\
+[Click here](https://docs.google.com/presentation/d/1rv42WyflGCZoEuyPVPCXPnaeLoyCEqeN/edit?usp=sharing&ouid=104101849097978209458&rtpof=true&sd=true) to see our presentation deck
 
