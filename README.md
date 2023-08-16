@@ -5,7 +5,7 @@ Lauryne Assa, Ashley Agyeman, Nicholas Hansen-Feruch, Cristian Campos, Celeste C
 Our research is centered on determining the effects that COVID-19 had on food deserts within New York and, consequently, its effects on health and education of the people in this state.
 
 # Interactive Dashboard
-[Click here](https://public.tableau.com/shared/78TQ8852D?:display_count=n&:origin=viz_share_link) to see our interactive Tableau dashboard
+[Click here](tinyurl.com/dashboard-team40) to see our interactive Tableau dashboard
 
 # Datafolio
 [Click here](https://docs.google.com/presentation/d/1CH_F4Bk1P9D47m_roCbRI-0_D5q_uMQp7PqA1_IvmD4/edit?usp=sharing) to see our datafolio
